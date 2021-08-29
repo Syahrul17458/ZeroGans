@@ -1,4 +1,4 @@
-# Zeroo
+# ZeroGans
 
 <p align="center">
 	<img src="https://i.ibb.co/SydBnC5/20210725-125918.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
@@ -9,7 +9,7 @@
 
 ## Bot WhatsApp By ZEROBOT
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZeroChanBot/Zeroo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ZeroChanBot/ZeroGans)
 
 ### FOR TERMUX/SSH/UBUNTU
 
@@ -20,8 +20,8 @@
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/ZeroChanBot/Zeroo
-> cd Zeroo
+> git clone https://github.com/ZeroChanBot/ZeroGans
+> cd ZeroGans
 > npm install
 ```
 
@@ -35,8 +35,8 @@
 * Click & Install [`IMAGEMAGICK`](https://imagemagick.org/script/download.php)
 
 ```bash
-> git clone https://github.com/ZeroChanBot/Zeroo
-> cd Zeroo
+> git clone https://github.com/ZeroChanBot/ZeroGans
+> cd ZeroGans
 > npm install
 ```
 
