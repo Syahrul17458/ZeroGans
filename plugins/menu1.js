@@ -7,11 +7,11 @@ let tags = {
 const defaultMenu = {
   before: `
 Hello There
-Im %me
+Im By.U BOT VIP
 
 UserName : %name
 Uptime : %uptime
-Total Features : 983+
+Total Features : 900+
 
 Please Dont Click Readmore
 %readmore

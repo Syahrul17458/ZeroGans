@@ -1001,7 +1001,7 @@ Prefix *%p*
 
 â–· Click Here To Join
 
-â–· *https://bit.ly/2VUSJIC*
+â–· *https://chat.whatsapp.com/FVCjOV5mqdtF8HWXTwroCl*
 
 
 
