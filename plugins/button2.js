@@ -7,7 +7,7 @@ let tags = {
 const defaultMenu = {
   before: `
 HALO KAK
-Saya ZEROBOT
+Saya By.U BOT VIP
 Pilih Menu Di Bawah
 Dan Jangan Lupa Baca Rules Dibawah
 
@@ -15,8 +15,14 @@ Dan Jangan Lupa Baca Rules Dibawah
 Spam = Banned
 Telp = Blok
 
-Subscribe Me
-https://bit.ly/3hg3bm4
+Follow Me!
+https://www.instagram.com/imbyu_official/
+
+Join My Group!
+https://chat.whatsapp.com/FVCjOV5mqdtF8HWXTwroCl
+Hubungi Owner Jika Kadaluarsa
+
+*© By.U BOT*
 
 \`\`\`Dont Click Read More\`\`\`\n
 %readmore
