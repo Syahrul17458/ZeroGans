@@ -1,10 +1,10 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `
-*SC Ini Menggunakan Termux*
-*- :v*
-_nnti aja ya _
-_Bisa Chat_
-_wa.me/62895378264836_
+*SC? Awaokwaok Ngemis*
+
+*SC Ini Tidak Diperjual Belikan Kak*
+_Github Author:_
+github.com/Nurutomo
 `.trim()
 
 conn.fakeReply(m.chat, info, '0@s.whatsapp.net', '🔥 *FREE SC* 🔥', 'status@broadcast')

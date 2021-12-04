@@ -1,15 +1,20 @@
 const sewabot = () => { 
 	return `
-*OPEN JASA SEWA BOT*
+*By.U BOT VIP Free And games-wabot*
 
-Sewa Seminggu : 10k
-Sewa Sebulan : 25k
+Bot Ini Dapat Digunakan Untuk Semua Orang
 
-*Payment :*
-_Pulsa Dan Dana_
+*NOTE:*
+> Jika Ingin Memasukkan BOT Kedalam Grup Harap Izin Owner Dulu
+> Kamu Bisa Donasi Agar BOT Ini Aktif Terus
+> BOT Ini Terdapat Fitur Premium, Jika Ingin Beli Premium Bisa Hubungi Owner
+> Fitur Premium Hanya Bisa Memasukan BOT Ini Kedalam Grup Maks 0-7 Grup
+> Untuk Non Premium Hanya Bisa 0-3 Grup Saja
 
-Minat?PC
-Wa.me/6287834993722
+Donasi?PC or Here
+Wa.me/12817206020
+Axis : 083805870343
+XL : 087833996829
 `
 }
 handler.help = ['sewa']
