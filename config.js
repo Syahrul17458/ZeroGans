@@ -1,9 +1,9 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['-']
+global.linkGC = ['https://chat.whatsapp.com/FVCjOV5mqdtF8HWXTwroCl']
 global.channelYT = ['-'] 
-global.owner = ['62895378264836']// Put your number here
-global.mods = ['62895378264836'] // Want some help?
-global.prems = ['62895378264836'] // Premium user has unlimited limit
+global.owner = ['12817206020']// Put your number here
+global.mods = ['12817206020'] // Want some help?
+global.prems = ['12817206020'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -31,8 +31,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'ZERO BOT'
-global.author = 'BOT BY RAKU GANS'
+global.packname = 'By.U BOT VIP'
+global.author = 'ImByu Official'
 
 global.multiplier = 69 // The higher, The harder levelup
 
